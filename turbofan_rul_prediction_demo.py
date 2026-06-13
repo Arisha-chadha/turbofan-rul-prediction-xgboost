@@ -1,5 +1,8 @@
 # Turbofan RUL Prediction using XGBoost and Time-Series Windowing
 # Public demo version
+# Note:
+# This is a simplified public demo version.
+# Detailed tuning experiments, advanced feature engineering, and extended analysis are not included.
 
 import os
 import zipfile
