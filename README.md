@@ -1,5 +1,7 @@
 # Turbofan RUL Prediction using XGBoost and Time-Series Windowing
 
+**This repository contains a simplified public demo version. Detailed experimental tuning and extended analysis are not included.**
+
 This project predicts the Remaining Useful Life (RUL) of turbofan jet engines using machine learning on the NASA C-MAPSS Turbofan Engine Degradation Simulation Dataset.
 
 The project is inspired by the existing work **“A Machine Learning Approach for Turbofan Jet Engine Predictive Maintenance”** and extends the baseline approach by using XGBoost regression with time-series windowing for improved RUL prediction.
