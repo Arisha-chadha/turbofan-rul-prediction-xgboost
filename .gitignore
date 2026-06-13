@@ -1,9 +1,13 @@
-__pycache__/
+ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 data/
 raw_data/
+CMAPSSData/
+CMAPSS_outer.zip
 *.csv
 *.xlsx
+*.txt
+*.zip
 *.pkl
 *.joblib
